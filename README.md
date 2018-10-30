@@ -1,3 +1,3 @@
 # Design Patterns
 
-Projeto de estudo de Design Patterns em .NET.
+Design Patterns study project in C#.
