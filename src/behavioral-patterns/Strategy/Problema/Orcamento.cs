@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Strategy.DesignPatternAplicado
+﻿namespace behavioral_patterns.Problema
 {
     public class Orcamento
     {

@@ -1,14 +1,14 @@
 ﻿using System;
 
-namespace DesignPatterns
+namespace behavioral_patterns
 {
     class Program
     {
         static void Main(string[] args)
         {
             // Padrão Strategy
-            Strategy.Problema.Application.Execute();
-            Strategy.DesignPatternAplicado.Application.Execute();
+            behavioral_patterns.Problema.Application.Execute();
+            behavioral_patterns.DesignPatternAplicado.Application.Execute();
             
             Console.ReadLine();
         }

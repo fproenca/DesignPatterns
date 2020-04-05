@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DesignPatterns.Strategy.Problema
+namespace behavioral_patterns.Problema
 {
     public class CalculadorDeImpostos
     {

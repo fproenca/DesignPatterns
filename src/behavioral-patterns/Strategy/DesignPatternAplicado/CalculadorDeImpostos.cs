@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DesignPatterns.Strategy.DesignPatternAplicado
+namespace behavioral_patterns.DesignPatternAplicado
 {
     public class CalculadorDeImpostos
     {
